@@ -55,7 +55,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47235294"
+     inkscape:zoom="0.42941176"
      inkscape:cx="850"
      inkscape:cy="850"
      inkscape:document-units="px"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>Creative Commons 4.0</dc:title>
@@ -1503,7 +1503,7 @@
            x="463.39026"
            y="617.74194"
            style="-inkscape-font-specification:Cuprum;font-family:Cuprum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara256"></flowPara></flowRoot>    <g
+         id="flowPara256" /></flowRoot>    <g
        id="g1319">
       <g
          style="fill:#cdcbcf;stroke-width:0.72462082"
@@ -1571,10 +1571,5 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <path
-       style="opacity:1;fill:#0b0c07;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.029572e-6,-152.79169 V 72.104143 A 224.89585,224.89583 0 0 1 224.89583,-152.79169 Z m 224.895827970428,0 A 224.89585,224.89583 0 0 1 449.79166,72.104143 V -152.79169 Z M 449.79166,72.104143 A 224.89585,224.89583 0 0 1 224.89583,296.99998 H 449.79166 Z M 224.89583,296.99998 A 224.89585,224.89583 0 0 1 2.029572e-6,72.104143 V 296.99998 Z"
-       id="rect1361"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
